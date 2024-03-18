@@ -1,8 +1,4 @@
 - 🔭 Hi, I’m @nekorana, a student from BUPT
-- 🌱 I'm learning Java/Rust/Python/Go/...
-- 😄 want to be a web developer
+- 🌱 learning Java/Rust/Python/Go/...
+- 😄 interested in web security
 - ⚡ Fun fact ... ACGN❤
-
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekorana&langs_count=6&exclude_repo=nekorana.github.io" />
-</div>
