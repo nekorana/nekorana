@@ -1,4 +1,5 @@
-- 🔭 Hi, I’m @nekorana, a student from BUPT
-- 🌱 learning Java/Rust/Python/Go/...
-- 😄 interested in web security
+- 🔭 Hi, I’m AsTr4, a graduate student from BUPT
+- 🌱 learning Python/Go/Rust/C#...
+- 😄 interested in binary security
+- 😍 currently researching deep learning
 - ⚡ Fun fact ... ACGN❤
