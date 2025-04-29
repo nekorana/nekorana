@@ -1,5 +1,4 @@
 - 🔭 Hi, I’m AsTr4, a graduate student from BUPT
-- ⚡ currently researching DeepLearning and LLMs
 - 🌱 mainly using Python/Go/Rust/C#...
 - 😄 interested in binary security
 - 😍 Fun fact: I'm a loyal ACG fan❤
