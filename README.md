@@ -1,6 +1,6 @@
 Hello! I am AsTr4, a graduate student at Beijing University of Posts and Telecommunications.😎
 
-My research focuses on integrating large models with cybersecurity to address threat management.📃
+My research currently focuses on LLMOps.📃
 
 Coding environment:
 
@@ -10,7 +10,7 @@ Coding environment:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
 
 
-I'm currently using:
+Skills:
 
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
