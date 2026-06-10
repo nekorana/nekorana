@@ -25,7 +25,7 @@ My current interests include IPv4/IPv6 dual-stack host discovery, protocol finge
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,rust,cpp,python,linux,arch,windows,docker,mysql,redis,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=go,rust,cpp,python,arch,windows,docker,mysql,redis,git,github,vscode&perline=7" />
 </p>
 
 <p align="center">
