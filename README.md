@@ -16,8 +16,8 @@ My current interests include IPv4/IPv6 dual-stack host discovery, protocol finge
 
 ### Research Interests
 
-- Internet measurement and active scanning
-- AI-assisted coding security
+- Internet measurement
+- vibe coding
 - Fulltack programming with Go, Rust, C++, and Python
 
 ---
