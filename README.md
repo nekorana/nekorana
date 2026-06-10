@@ -25,15 +25,15 @@ My current interests include IPv4/IPv6 dual-stack host discovery, protocol finge
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,rust,python,react,arch,windows,docker,mysql,redis,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=go,rust,python,typescript,arch,windows,react,docker,mysql,redis,git,vscode&perline=7" />
 </p>
 
 <p align="center">
-  <b>Languages:</b> Go · Rust · C++ · Python  
+  <b>Languages:</b> Go · Rust · Python · TypeScript
   <br/>
-  <b>Systems:</b> Arch Linux · Windows · Linux  
+  <b>Systems:</b> Arch Linux · Windows 
   <br/>
-  <b>Tools:</b> Docker · MySQL · Redis · Git · GitHub · VS Code
+  <b>Tools:</b> React · Docker · MySQL · Redis · Git · React · VS Code
 </p>
 
 ---
