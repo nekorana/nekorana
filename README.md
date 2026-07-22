@@ -1,14 +1,14 @@
 <h2 align="center">Hi, I'm AsTr4 👋</h2>
 
 <p align="center">
-  Graduate student in Cybersecurity · Network Measurement · Systems Programming
+  Graduate student in Cybersecurity · Network Measurement · Fullstack Programming
 </p>
 
 ---
 
 ### About Me
 
-I am a graduate student at Beijing University of Posts and Telecommunications, focusing on cybersecurity, Internet measurement, and systems programming.
+I am a graduate student at Beijing University of Posts and Telecommunications, focusing on cybersecurity, Internet measurement, and fullstack programming.
 
 My current interests include IPv4/IPv6 dual-stack host discovery, protocol fingerprinting and network scanning.
 
@@ -18,7 +18,7 @@ My current interests include IPv4/IPv6 dual-stack host discovery, protocol finge
 
 - Internet measurement
 - vibe coding
-- Fulltack programming with Go, Rust, C++, and Python
+- Fulltack programming with Go, Rust, Python, and TypeScript
 
 ---
 
