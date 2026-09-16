@@ -35,19 +35,3 @@ My current interests include IPv4/IPv6 dual-stack host discovery, protocol finge
   <br/>
   <b>Tools:</b> React · Docker · MySQL · Redis · Git · React · VS Code
 </p>
-
----
-
-### Coding Activity
-
-<!--START_SECTION:waka-->
-
-```txt
-Go                         30 hrs 6 mins         ⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.04 %
-Unknown                    26 hrs 40 mins        ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.52 %
-C++                        19 hrs 42 mins        ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.43 %
-Rust                       16 hrs 46 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.28 %
-Python                     14 hrs 25 mins        ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.55 %
-```
-
-<!--END_SECTION:waka-->
